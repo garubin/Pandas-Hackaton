@@ -1,2 +1,2 @@
-# Pandas-Hackaton
-Pandas-Hackaton
+# Pandas-Hackathon
+Pandas-Hackathon
